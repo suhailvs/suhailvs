@@ -1,25 +1,15 @@
 # Suhail vs
 
-:wave: Hi there, My name is Suhail vs.😀 I'm 32 years old, 
-I've profound knowledge in Django Framework. 
+<p align="center">
+  <b>Hey, I'm Suhail VS 👋</b><br />
+  Django Developer at Donams.
+</p>
 
-## My Stack
 
-Languages: Python, JavaScript
-<br>
-Backend: Django
-<br>
-Frontend: HTML5, CSS3, Bootstrap
-<br>
-API: Django REST Framework
-<br>
-Databases: MySQL, PostgreSQL
-<br>
-Tools: Git, Github, Bitbucket
-<br>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=suhailvs&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=suhailvs&layout=compact)
+**I'm currently working on:**
+* [Django schools](https://djangoschools.herokuapp.com/) - Quiz app using django.
+* [Django Social Network](https://suhail.herokuapp.com/) - Social networking app using django.
+* [Kerala PSC Quiz](https://pscquiz.in) - Kerala PSC Quiz app using django, flutter and angular.
 
 <!--
 **suhailvs/suhailvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
