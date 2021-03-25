@@ -9,7 +9,6 @@
 **I'm currently working on:**
 * [Django schools](https://djangoschools.herokuapp.com/) - Quiz app using django.
 * [Django Social Network](https://suhail.herokuapp.com/) - Social networking app using django.
-* [Kerala PSC Quiz](https://pscquiz.in) - Kerala PSC Quiz app using django, flutter and angular.
 
 <!--
 **suhailvs/suhailvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
