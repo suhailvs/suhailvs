@@ -2,14 +2,14 @@
 
 <p align="center">
   <b>Hey, I'm Suhail VS 👋</b><br />
-  Django Developer at Donams.
+  <img src="https://handshake.org/images/landing/logo-dark.svg"> <br>Developer.
 </p>
 
 
 **I'm currently working on:**
 * [Django schools](https://djangoschools.herokuapp.com/) - Quiz app using django.
-* [Django Social Network](https://suhail.herokuapp.com/) - Social networking app using django.
-
+* [Bob Wallet](https://github.com/sta-k/bob-extension) - Handshake wallet(Chrome extenstion).
+* [Django Rest Framework Docs](https://github.com/suhailvs/django-rest-framework-docs) -  Play with RestFramework APIs(similar to postman)
 <!--
 **suhailvs/suhailvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
