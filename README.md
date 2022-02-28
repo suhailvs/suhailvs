@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>Hey, I'm Suhail VS 👋</b><br />
-  <img src="https://handshake.org/images/landing/logo-dark.svg"> <br>Developer.
 </p>
 
 
