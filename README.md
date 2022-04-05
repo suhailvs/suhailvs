@@ -7,7 +7,6 @@
 
 **I'm currently working on:**
 * [Django schools](https://djangoschools.herokuapp.com/) - Quiz app using django.
-* [Bob Wallet](https://github.com/sta-k/bob-extension) - Handshake wallet(Chrome extenstion).
 * [Django Rest Framework Requests](https://github.com/suhailvs/drfrequests) -  Play with RestFramework APIs(similar to postman)
 <!--
 **suhailvs/suhailvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
