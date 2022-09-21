@@ -6,7 +6,7 @@
 
 
 **I'm currently working on:**
-* [Django schools](https://djangoschools.herokuapp.com/) - Quiz app using django.
+* [Django schools](https://django.stackschools.com/) - Quiz app using django.
 * [Django Rest Framework Requests](https://github.com/suhailvs/drfrequests) -  Play with RestFramework APIs(similar to postman)
 <!--
 **suhailvs/suhailvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
