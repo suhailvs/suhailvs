@@ -6,7 +6,10 @@
 
 
 **I'm currently working on:**
-* [Django schools](https://github.com/suhailvs/django-schools/) - Quiz app using django.
+* Note app: [standardnotes](https://github.com/standardnotes/app) | [takenote](https://github.com/suhailvs/takenote)
+* Schools app: [djangoschools](https://github.com/suhailvs/django-schools/) | [stackschools](https://github.com/suhailvs/stackschools/)
+* Cryptocurrency: [stellar](https://github.com/suhailvs/stellar_quickstart) | [denaro](https://github.com/suhailvs/denaro)
+* Inventory: [inventory](https://github.com/suhailvs/pyinventory)
 <!--
 **suhailvs/suhailvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
