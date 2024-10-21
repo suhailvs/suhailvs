@@ -6,7 +6,7 @@
 
 
 **I'm currently working on:**
-* Note app: [standardnotes](https://github.com/standardnotes/app) | [takenote](https://github.com/suhailvs/takenote) | [takenote-vite](https://github.com/mylearnit/takenote-vite)
+* Note app: [standardnotes](https://github.com/standardnotes/app) | [takenote](https://github.com/suhailvs/takenote) | [takenote-vite](https://github.com/suhailvs/takenote-vite)
 * Schools app: [djangoschools](https://github.com/suhailvs/django-schools/) | [stackschools](https://github.com/suhailvs/stackschools/) | [homeschools](https://github.com/suhailvs/homeschool/)
 
 <!--
